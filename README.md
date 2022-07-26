@@ -2,8 +2,6 @@
 
 I've worked as a fullstack developer since 2014. Mainly worked with Java frameworks, Javascript, and worked in Unix environments.
 
-Current side project: An app to track and visualise my consistency with habits I'm trying to form.
-
 <!--
 **jungbauer/jungbauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
