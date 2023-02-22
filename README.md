@@ -2,6 +2,8 @@
 
 I've worked as a fullstack developer since 2014. Mainly worked with Java frameworks, Javascript, and worked in Unix environments.
 
+If you're looking for my master's work both repos are on BitBucket. The [thesis LaTex code is here](https://bitbucket.org/johann_jungbauer/masters_thesis/src/master/) and the [HTN code is here](https://bitbucket.org/johann_jungbauer/masters_fsm/src/master/).
+
 <!--
 **jungbauer/jungbauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
